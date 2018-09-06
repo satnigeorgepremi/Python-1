@@ -7,6 +7,6 @@ if a > 1:
             print(i, "times", a// i, "is", a)
             break
     else:
-        print(a, "yes")
+        print("yes")
 else:
     print(a, "is not a prime number")
