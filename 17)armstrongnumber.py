@@ -10,7 +10,7 @@ while(a>0):
     g+=(b**3)
 
 if(c==g):
-    print('a')
+    print('yes')
 else:
-    print('na')
+    print('no')
 print(a)
