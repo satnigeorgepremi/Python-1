@@ -1,7 +1,7 @@
-n=int(input("n"))
-a=[]
-if(n<100000):
-    for i in range(0,n):
-        b=int(input("b"))
-        a.append(b)
+a=int(input("n"))
+b=[]
+if(a<100000):
+    for i in range(0,a):
+        c=int(input("b"))
+        b.append(c)
     print(sorted(a))
